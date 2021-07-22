@@ -1,6 +1,6 @@
 # Hive_BigDataTechnologies
  
-### Connect to EMR 
+### Connect to EMR  
 
 	ssh hadoop@ec2-3-83-4-13.compute-1.amazonaws.com -i C:/BigDataTechnologies/emr-key-pair.pem
 
